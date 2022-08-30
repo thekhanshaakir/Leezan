@@ -1,0 +1,75 @@
+{
+  "Products" :
+  [
+  {
+    "Name":  "Shirt 1",
+    "Category":"Full Shirts",
+    "Description": "Description. Just for test or demo",
+    "Price":"1500",
+    "Img":"Shirt 1.jpg"
+  },
+  {
+    "Name":  "Shirt 2",
+    "Category":"Full Shirts",
+    "Description": "Description. Just for test or demo",
+    "Price":"2500",
+    "Img":"Shirt 1.jpg"
+  },
+  {
+    "Name":  "Shirt 3",
+    "Category":"Chinese Collared",
+    "Description": "Description. Just for test or demo",
+    "Price":"1500",
+    "Img":"Shirt 3.jpg"
+  },
+  {
+    "Name":  "Shirt 4",
+    "Category":"Chinese Collared",
+    "Description": "Description. Just for test or demo",
+    "Price":"3000",
+    "Img":"Shirt 4.jpg"
+  },
+  {
+    "Name":  "Shirt 5",
+    "Category":"Chinese Collared",
+    "Description": "Description. Just for test or demo",
+    "Price":"1500",
+    "Img":"Shirt 5.jpg"
+  },
+  {
+    "Name":  "Shirt 6",
+    "Category":"Half Shirts",
+    "Description": "Description. Just for test or demo",
+    "Price":"3000",
+    "Img":"Shirt 6.jpg"
+  },
+  {
+    "Name":  "Shirt 7",
+    "Category":"Chinese Collared",
+    "Description": "Description. Just for test or demo",
+    "Price":"1750",
+    "Img":"Shirt 7.jpg"
+  },
+  {
+    "Name":  "Shirt 8",
+    "Category":"Chinese Collared",
+    "Description": "Description. Just for test or demo",
+    "Price":"800",
+    "Img":"Shirt 8.jpg"
+  },
+  {
+    "Name":  "Shirt 7",
+    "Category":"Chinese Collared",
+    "Description": "Description. Just for test or demo",
+    "Price":"1750",
+    "Img":"Shirt 7.jpg"
+  },
+  {
+    "Name":  "Shirt 8",
+    "Category":"Chinese Collared",
+    "Description": "Description. Just for test or demo",
+    "Price":"800",
+    "Img":"Shirt 8.jpg"
+  }
+]
+}
