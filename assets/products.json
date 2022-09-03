@@ -11,7 +11,8 @@
     "Img1":"Shirt 2.jpg",
     "Img2":"Shirt 3.jpg",
     "Img3":"Shirt 4.jpg",
-    "Img4":"Shirt 5.jpg"
+    "Img4":"Shirt 5.jpg",
+    "Size": "S,M,L,XL,XXL"
   },
   {
     "Id": 2,
@@ -23,7 +24,8 @@
     "Img1":"Shirt 12.jpg",
     "Img2":"Shirt 13.jpg",
     "Img3":"Shirt 14.jpg",
-    "Img4":"Shirt 5.jpg"
+    "Img4":"Shirt 5.jpg",
+    "Size": "S,M,L,XL,XXL"
   },
   {
     "Id": 3,
@@ -35,7 +37,8 @@
     "Img1":"Shirt 12.jpg",
     "Img2":"Shirt 13.jpg",
     "Img3":"Shirt 14.jpg",
-    "Img4":"Shirt 5.jpg"
+    "Img4":"Shirt 5.jpg",
+    "Size": "S,M,L,XL,XXL"
   },
   {
     "Id": 4,
@@ -47,7 +50,8 @@
     "Img1":"Shirt 12.jpg",
     "Img2":"Shirt 13.jpg",
     "Img3":"Shirt 14.jpg",
-    "Img4":"Shirt 5.jpg"
+    "Img4":"Shirt 5.jpg",
+    "Size": "S,M,L,XL"
   },
   {
     "Id": 5,
@@ -59,7 +63,8 @@
     "Img1":"Shirt 12.jpg",
     "Img2":"Shirt 13.jpg",
     "Img3":"Shirt 8.jpg",
-    "Img4":"Shirt 5.jpg"
+    "Img4":"Shirt 5.jpg",
+    "Size": "S,M,L,XL"
   },
   {
     "Id": 6,
@@ -71,7 +76,8 @@
     "Img1":"Shirt 12.jpg",
     "Img2":"Shirt 10.jpg",
     "Img3":"Shirt 11.jpg",
-    "Img4":"Shirt 5.jpg"
+    "Img4":"Shirt 5.jpg",
+    "Size": "S,M,L"
   },
   {
     "Id": 7,
@@ -83,7 +89,8 @@
     "Img1":"Shirt 10.jpg",
     "Img2":"Shirt 1.jpg",
     "Img3":"Shirt 3.jpg",
-    "Img4":"Shirt 5.jpg"
+    "Img4":"Shirt 5.jpg",
+    "Size": "M,L,XL"
   },
   {
     "Id": 8,
@@ -95,7 +102,8 @@
     "Img1":"Shirt 10.jpg",
     "Img2":"Shirt 2.jpg",
     "Img3":"Shirt 6.jpg",
-    "Img4":"Shirt 7.jpg"
+    "Img4":"Shirt 7.jpg",
+    "Size": "M,L,XL,XXL"
   },
   {
     "Id": 9,
@@ -107,7 +115,8 @@
     "Img1":"Shirt 8.jpg",
     "Img2":"Shirt 9.jpg",
     "Img3":"Shirt 10.jpg",
-    "Img4":"Shirt 12.jpg"
+    "Img4":"Shirt 12.jpg",
+    "Size": "S,M,L,XL,XXL"
   },
   {
     "Id": 10,
@@ -119,7 +128,8 @@
     "Img1":"Shirt 13.jpg",
     "Img2":"Shirt 9.jpg",
     "Img3":"Shirt 10.jpg",
-    "Img4":"Shirt 12.jpg"
+    "Img4":"Shirt 12.jpg",
+    "Size": "S,M,L,XL,XXL"
   }
 ]
 }
