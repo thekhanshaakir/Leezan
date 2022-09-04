@@ -12,7 +12,7 @@
     "Img2":"Shirt 3.jpg",
     "Img3":"Shirt 4.jpg",
     "Img4":"Shirt 5.jpg",
-    "Size": "S,M,L,XL,XXL",
+    "Size": "S,M,L,XL",
     "Discount": 10
   },
   {
@@ -26,7 +26,7 @@
     "Img2":"Shirt 13.jpg",
     "Img3":"Shirt 14.jpg",
     "Img4":"Shirt 5.jpg",
-    "Size": "S,M,L,XL,XXL",
+    "Size": "S,M,L,XL",
     "Discount": 10
   },
   {
@@ -40,7 +40,7 @@
     "Img2":"Shirt 13.jpg",
     "Img3":"Shirt 14.jpg",
     "Img4":"Shirt 5.jpg",
-    "Size": "S,M,L,XL,XXL",
+    "Size": "S,M,L,XL",
     "Discount": 10
   },
   {
@@ -124,7 +124,7 @@
     "Img2":"Shirt 9.jpg",
     "Img3":"Shirt 10.jpg",
     "Img4":"Shirt 12.jpg",
-    "Size": "S,M,L,XL,XXL",
+    "Size": "XL,XXL",
     "Discount": 98
   },
   {
@@ -138,7 +138,7 @@
     "Img2":"Shirt 9.jpg",
     "Img3":"Shirt 10.jpg",
     "Img4":"Shirt 12.jpg",
-    "Size": "S,M,L,XL,XXL",
+    "Size": "XL,XXL",
     "Discount": 40
   }
 ]
